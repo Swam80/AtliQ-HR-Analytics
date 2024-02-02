@@ -43,16 +43,16 @@ Let's delve into these findings to extract meaningful conclusions.
 ## Insights and Recommendations: 
 Based on the data analysis, the following insights and recommendations can guide effective decision-making: 
 
-## Office Space Utilization: 
+* Office Space Utilization: 
 Leverage higher attendance rates on Mondays and Tuesdays to plan team-building exercises and essential meetings that require maximum employee presence. This approach optimizes office space utilization and fosters collaboration. 
 
-## Maintenance and Off-Peak Activities: 
+* Maintenance and Off-Peak Activities: 
 Utilize Fridays and Thursdays, which exhibit slightly lower attendance rates, to focus on office maintenance and organize activities that require fewer employees. This strategy ensures efficient space management without disrupting regular work. 
 
-## Work-from-Home (WFH) Policy: 
+* Work-from-Home (WFH) Policy: 
 Considering the 10% preference for remote work, implementing or strengthening a work-from-home policy can offer employees flexibility and contribute to overall satisfaction and work-life balance. 
 
-## Wellness Programs: 
+* Wellness Programs: 
 While the low sick leave percentage indicates good employee health, introducing wellness programs and initiatives can further nurture a healthy work environment, reduce sick leave instances, and promote employee well-being. 
 
 ## Conclusion: 

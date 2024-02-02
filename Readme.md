@@ -25,6 +25,11 @@ The attendance data was provided in the form of an Excel file. The data underwen
 - Utilized Power BI Desktop to visualize the data and create interactive dashboards.
 - Developed visualizations to provide insights into attendance trends, sick leave reasons, WFH vs. WFO percentages, and more.
 
+## Key Abbreviations
+
+![](Key_fullform.JPG)
+
+## Dashboard Image
 
 ![](dashboard.JPG)
 

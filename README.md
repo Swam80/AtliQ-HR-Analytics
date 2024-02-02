@@ -43,7 +43,11 @@ Let's delve into these findings to extract meaningful conclusions.
 
 *  Sick Leave (SL) Percentage: The sick leave percentage stands at a commendable 1.10%, indicating a culture of strong attendance and minimal sick leave instances among employees. 
 
-*  Day of the Week and Presence Percentage: Analyzing presence percentages by day of the week reveals interesting patterns: Fridays show a slightly lower presence percentage of 90.19% compared to other weekdays. Mondays witness a high presence percentage of 93.21%, signaling a positive start to the workweek. Saturdays and Sundays have a 0.00% presence percentage, as weekends are non-working days. Thursdays and Wednesdays demonstrate presence percentages of 90.72% and 92.11% respectively, indicating consistent attendance mid-week. Tuesdays mirror Mondays, with a presence percentage of 93.03%. 
+*  Presence Percentage: Monday, Tuesday and Wednesday show consistent presence at around 92% - 93%, it dips a bit on Thursday and Friday. The overall trend decreases from April to June with few major dips at 3rd May and 12th May.
+
+*  WFH Percentage : Friday seems to have higher % of WFH attendence at 13.01% and its overall trend seems to increase as we go from April to June.
+
+*  Sick leave Percentage : Monday and Tuesday seem to have higher % of sick leaves and the overall trend increases from April to June.
 
 ## Insights and Recommendations: 
 Based on the data analysis, the following insights and recommendations can guide effective decision-making: 

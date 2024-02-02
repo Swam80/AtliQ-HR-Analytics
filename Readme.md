@@ -8,9 +8,6 @@ Welcome to the HR Analytics Project repository for Atliq Technologies! In this p
 Atliq Technologies' HR Generalist sought insights from the attendance data, collected in key format over the last 3 months. The objective was to gain insights into employee attendance patterns, determine retention strategies, and identify reasons behind sick leave percentages. Additionally, the analysis aimed to differentiate between Work From Home (WFH) and Work From Office (WFO) percentages.
 
 
-## Client : 
-Dhaval (co-founder), Pinali (HR).
-
 ## Data Source: 
 The attendance data was provided in the form of an Excel file. The data underwent Extract, Transform, and Load (ETL) operations to prepare it for analysis..
 
@@ -29,6 +26,7 @@ The attendance data was provided in the form of an Excel file. The data underwen
 - Developed visualizations to provide insights into attendance trends, sick leave reasons, WFH vs. WFO percentages, and more.
 
 
+![](dashboard.JPG)
 
 ## Key Findings: 
 Let's delve into these findings to extract meaningful conclusions. 

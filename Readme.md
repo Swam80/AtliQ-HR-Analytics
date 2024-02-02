@@ -61,9 +61,3 @@ While the low sick leave percentage indicates good employee health, introducing 
 
 ## Conclusion: 
 In conclusion, the insightful data analysis empowers Atliq Technologies to optimize office space utilization, foster employee engagement, and enhance work-life balance. By leveraging these findings, the company can make informed decisions regarding team activities, maintenance schedules, work-from-home policies, and wellness programs. These measures will ultimately lead to a more productive and satisfied workforce.
-
-
-<h4 align="center">
-<h4 align="center">
-  <a href="https://sites.google.com/view/jagadeeshr" title="Portfolio"> Show More 🔍</a>
-</h4>

@@ -1,3 +1,4 @@
+# HR Analytics AtliQ technologies
 
 ## Introduction:
 Welcome to the HR Analytics Project repository for Atliq Technologies! In this project, we analyzed the attendance data of the last 3 months to provide insights to the HR Generalist. By leveraging data extraction, transformation, and loading techniques, we generated valuable insights using Power BI Desktop.

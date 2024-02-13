@@ -19,6 +19,7 @@ The attendance data was provided in the form of an Excel file. The data underwen
 2. **Data Gathering and Transformation**:
 - Collected the attendance data from the provided Excel file.
 - Utilized ETL operations to clean and transform the data into a suitable format for analysis.
+- Combined different excel sheets and created template function to transform and merge new data.
 3. **Creating Metrics using DAX**:
 - Implemented Data Analysis Expressions (DAX) to create key metrics, including attendance percentages, sick leave percentages, WFH 
  percentages, and more.
